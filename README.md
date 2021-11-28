@@ -1,4 +1,8 @@
 # siteUnderConstruction
 Simple responsive Default site under construction page
 
-[Live Preview](https://objective-torvalds-85d07a.netlify.app/)
+
+## [Live Preview](https://portfolio-build.netlify.app/)
+
+
+![PREVIEW](/preview/AISiteDesktopHead.png)
